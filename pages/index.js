@@ -110,7 +110,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Antigravity | Swing Scanner</title>
+        <title>Swing Scanner</title>
       </Head>
 
       <header className={styles.header}>
